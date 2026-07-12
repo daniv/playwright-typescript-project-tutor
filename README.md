@@ -1,5 +1,11 @@
 # Playwright + TypeScript Scaffolding Tutor Prompt
 
+## Introduction
+
+AI tools can now generate working code in seconds — but that speed is exactly why understanding the fundamentals matters more, not less. A programmer who doesn't understand why a configuration works can't debug it when it breaks, can't evaluate whether the AI's suggestion is actually correct, and can't adapt it to a context the AI didn't anticipate. Fundamentals are what let you tell good AI output from confident-sounding AI output.
+
+This prompt is built on that premise: AI should be used as an assistant that teaches and accelerates understanding — not as a replacement for it. The goal isn't to avoid AI, but to use it deliberately: as a tutor that explains trade-offs and reasoning, while the human stays the one who writes, runs, and truly understands the code.
+
 ## Purpose
 
 This prompt is designed to **teach**, not to do the work for you.
