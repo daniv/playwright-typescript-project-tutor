@@ -1,5 +1,7 @@
 # Playwright + TypeScript Scaffolding Tutor Prompt
 
+![Step Structure](./static/ai_tutor_not_autopilot_graphic.png)
+
 ## Introduction
 
 AI tools can now generate working code in seconds — but that speed is exactly why understanding the fundamentals matters more, not less. A programmer who doesn't understand why a configuration works can't debug it when it breaks, can't evaluate whether the AI's suggestion is actually correct, and can't adapt it to a context the AI didn't anticipate. Fundamentals are what let you tell good AI output from confident-sounding AI output.
