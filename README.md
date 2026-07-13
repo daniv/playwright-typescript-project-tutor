@@ -40,10 +40,7 @@ The expected outcome isn't "have the project ready as fast as possible", but fin
 
 ## Step Structure
 
-```mermaid
-flowchart LR
-    A[Concept] --> B[Why] --> C[Command/Snippet] --> D[What to verify]
-```
+![Step Structure](./static/mermaid-flow.png)
 
 ## Who it's for
 
